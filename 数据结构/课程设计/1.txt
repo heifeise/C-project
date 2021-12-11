@@ -1,0 +1,15 @@
+score
+soccer
+########
+apart
+part
+trap
+########
+set
+test
+########
+course
+resource
+source
+########
+########
