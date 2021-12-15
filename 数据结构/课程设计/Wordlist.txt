@@ -1,5 +1,37 @@
-A 
-
+a
+b
+c
+d
+e
+f
+g
+h
+I
+j
+k l m n o p q r s t u v w x y z
+resco
+aptr
+tset
+oresuc
+zoo
+) 输入：
+resco
+aptr
+tset
+oresuc
+    #
+输出：
+    score         //在字典中只找到1个单词
+******
+part          //在字典中找到3个单词,按字典序输出这3个单词
+tarp
+trap
+******
+NOT A VALID WORD   //在字典中没找到对应的单词
+******
+course
+******
+(2) 自己编写一组测试数据  
 a (an)  art.  一（个、件„„） 
 ability  n. 能力； 才能  
 able  a. 能够；有能力的 

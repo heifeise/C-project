@@ -1,3 +1,4 @@
+a
 abandon
 abbreviation
 ability
@@ -55,6 +56,7 @@ actress
 actual
 actually
 acute
+ad
 adapt
 add
 addition
@@ -109,6 +111,7 @@ agree
 agreement
 agricultural
 agriculture
+ah
 ahead
 aid
 aide
@@ -144,6 +147,7 @@ alternative
 although
 altogether
 always
+am
 amaze
 amazing
 ambiguous
@@ -156,6 +160,7 @@ among
 amount
 amuse
 amusement
+an
 analogy
 analysis
 analyst
@@ -221,6 +226,7 @@ approximate
 approximately
 apr
 april
+aptr
 arab
 arabic
 arbitrary
@@ -255,6 +261,7 @@ article
 artist
 artistic
 artistn
+as
 ascend
 ascribe
 ash
@@ -285,6 +292,7 @@ assure
 astonish
 astronaut
 astronomy
+at
 ate
 athlete
 athletic
@@ -331,6 +339,7 @@ awful
 awkward
 awo
 awoke
+b
 baby
 bachelor
 back
@@ -390,6 +399,8 @@ battery
 battle
 battleground
 bay
+bc
+be
 beach
 beam
 bean
@@ -599,7 +610,9 @@ butterfly
 button
 buy
 buyer
+by
 bye
+c
 cab
 cabbage
 cabin
@@ -672,6 +685,7 @@ cattle
 caught
 cause
 cave
+cd
 ceiling
 celebrate
 celebration
@@ -808,6 +822,8 @@ cloudy
 club
 clue
 cluster
+cm
+co
 coach
 coal
 coalition
@@ -1077,6 +1093,7 @@ customs
 cut
 cycle
 cyclist
+d
 dad
 daddy
 daily
@@ -1287,6 +1304,7 @@ division
 divorce
 dizzy
 dna
+do
 docker
 docter
 doctor
@@ -1312,6 +1330,7 @@ downstairs
 downtown
 downward
 dozen
+dr
 draft
 drag
 drain
@@ -1363,6 +1382,7 @@ dustbin
 dusty
 duty
 dvd
+e
 each
 eager
 eagle
@@ -1386,6 +1406,7 @@ economic
 economics
 economist
 economy
+ed
 edge
 edition
 editor
@@ -1608,6 +1629,7 @@ extremely
 eye
 eyesight
 eyewitness
+f
 fabric
 face
 facial
@@ -1862,6 +1884,7 @@ furthermore
 furthest
 fuse
 future
+g
 gain
 galaxy
 gale
@@ -1928,6 +1951,7 @@ glorious
 glory
 glove
 glue
+go
 goal
 goat
 god
@@ -2010,6 +2034,8 @@ guy
 gym
 gymnasium
 gymnastics
+h
+ha
 habit
 habitat
 had
@@ -2056,6 +2082,7 @@ hatred
 have
 hawk
 hay
+he
 head
 headache
 headline
@@ -2097,6 +2124,7 @@ hers
 herself
 hestiate
 hey
+hi
 hibernate
 hibernation
 hid
@@ -2184,6 +2212,7 @@ hurt
 husband
 hydrogen
 hypothesis
+i
 ice
 iceland
 idea
@@ -2194,6 +2223,8 @@ identify
 identity
 idiom
 idle
+ie
+if
 ignore
 ill
 illegal
@@ -2223,6 +2254,7 @@ impression
 impressive
 improve
 improvement
+in
 inaccessible
 inadequate
 incentive
@@ -2336,15 +2368,18 @@ iraqi
 irish
 iron
 irreplaceable
+is
 islamic
 island
 isolate
 israeli
 issue
+it
 italian
 item
 its
 itself
+j
 jacket
 jail
 jam
@@ -2376,10 +2411,12 @@ jury
 just
 justice
 justify
+k
 keep
 keeper
 ken
 key
+kg
 kick
 kid
 kill
@@ -2399,6 +2436,7 @@ knot
 know
 knowledge
 kong
+l
 lab
 label
 labor
@@ -2524,6 +2562,7 @@ lunch
 lung
 luxury
 lynar
+m
 machine
 mad
 magazine
@@ -2578,6 +2617,7 @@ maximum
 may
 maybe
 mayor
+me
 meal
 mean
 meaning
@@ -2639,6 +2679,7 @@ mist
 mistake
 mix
 mixture
+mm
 mobile
 modal
 mode
@@ -2680,7 +2721,9 @@ mouth
 move
 movement
 movie
+mr
 mrs
+ms
 much
 multiple
 murder
@@ -2692,9 +2735,11 @@ musician
 muslim
 must
 mutual
+my
 myself
 mystery
 myth
+n
 naive
 naked
 name
@@ -2739,6 +2784,7 @@ next
 nice
 night
 nine
+no
 nobody
 nod
 noise
@@ -2774,6 +2820,7 @@ numerrous
 nurse
 nut
 nylon
+o
 obedient
 object
 objective
@@ -2796,6 +2843,7 @@ ocean
 oct
 odd
 odds
+of
 off
 offend
 offense
@@ -2805,12 +2853,15 @@ office
 officer
 official
 often
+oh
 oil
+ok
 okay
 old
 older
 olympic
 omit
+on
 once
 one
 ongoing
@@ -2837,12 +2888,14 @@ optimistic
 optimistically
 option
 optional
+or
 oral
 orange
 orbit
 orchestra
 order
 ordinary
+oresuc
 organ
 organic
 organization
@@ -2877,6 +2930,7 @@ owe
 own
 owner
 oxygen
+p
 pace
 pacific
 pack
@@ -2930,6 +2984,7 @@ pattern
 pause
 pay
 payment
+pc
 peace
 peak
 pedlar
@@ -2988,6 +3043,7 @@ pine
 pink
 pipe
 pitch
+pl
 place
 plan
 plane
@@ -3009,6 +3065,7 @@ plenty
 plot
 plumber
 plus
+pm
 pocket
 poem
 poet
@@ -3178,6 +3235,7 @@ purpose
 pursue
 push
 put
+q
 qualify
 quality
 quarter
@@ -3191,6 +3249,7 @@ quit
 quite
 quotation
 quote
+r
 race
 racial
 radiate
@@ -3214,6 +3273,7 @@ rating
 ratio
 ration
 raw
+re
 reach
 react
 reaction
@@ -3312,6 +3372,7 @@ reputation
 request
 require
 requirement
+resco
 rescue
 research
 researcher
@@ -3395,6 +3456,7 @@ running
 rural
 rush
 russian
+s
 sacred
 sad
 safe
@@ -3615,6 +3677,7 @@ smooth
 snap
 sneakers
 snow
+so
 soccer
 social
 society
@@ -3831,6 +3894,7 @@ switchman
 symbol
 symptom
 system
+t
 table
 tablespoon
 tackle
@@ -3848,6 +3912,7 @@ tap
 tape
 target
 tarnest
+tarp
 task
 taste
 tax
@@ -3957,6 +4022,7 @@ tire
 tired
 tissue
 title
+to
 tobacco
 today
 toe
@@ -4036,6 +4102,7 @@ truly
 trust
 truth
 try
+tset
 tube
 tue
 tuesday
@@ -4044,6 +4111,7 @@ tunnel
 turbulent
 turn
 turner
+tv
 twelve
 twenty
 twice
@@ -4053,6 +4121,7 @@ two
 type
 typical
 typically
+u
 ugly
 ultimate
 ultimately
@@ -4082,11 +4151,13 @@ unlikely
 unskilled
 until
 unusual
+up
 upon
 upper
 urban
 urge
 urgent
+us
 usage
 use
 used
@@ -4098,6 +4169,7 @@ utilify
 utilise
 utility
 utter
+v
 vacant
 vacation
 vacuum
@@ -4166,7 +4238,9 @@ voluntary
 volunteer
 vote
 voter
+vs
 vulnerable
+w
 wage
 wagon
 waist
@@ -4195,6 +4269,7 @@ watermelon
 wave
 wax
 way
+we
 weak
 wealth
 wealthy
@@ -4291,6 +4366,8 @@ write
 writer
 writing
 wrong
+x
+y
 yard
 yawn
 yeah
@@ -4308,4 +4385,6 @@ your
 yours
 yourself
 youth
+z
 zone
+zoo
